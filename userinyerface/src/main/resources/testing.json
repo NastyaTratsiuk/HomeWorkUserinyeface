@@ -1,0 +1,10 @@
+{
+  "indexSelectedAll" : 17,
+  "indexUnSelectedAll" : 20,
+  "sizeDomain" : 4,
+  "sizeEmail" : 6,
+  "sizePassword" : 10,
+  "numberOfInterests" :3,
+  "startTimerValue" : "00:00:00",
+  "pathImage" : "\\src\\main\\resources\\image.jpg"
+}
